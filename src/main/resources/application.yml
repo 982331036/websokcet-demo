@@ -1,0 +1,4 @@
+websocket:
+  server:
+    port: 8888
+    path: /webSocket
